@@ -4,14 +4,14 @@ import business from "../../assets/business.svg";
 import community from "../../assets/community.svg";
 import om from "../../assets/om.jpg";
 import bernd from "../../assets/bernd.png";
+import amanjot from "../../assets/amanjot.jpg";
 import jignesh from "../../assets/jignesh.jpg";
 import mudit from "../../assets/mudit.jpg";
-import sandeep from "../../assets/sandeep.jpg";
-import akhil from "../../assets/akhil.jpg";
+import poorvi from "../../assets/poorvi.jpg";
 import sanket from "../../assets/sanket.jpg";
 import sneha from "../../assets/sneha.jpg";
-import tejaaswini from "../../assets/tejaaswini.png";
 import soumya from "../../assets/soumya.png";
+import ojuswi from "../../assets/ojuswi.jpg";
 import madhav from "../../assets/madhav.jpg";
 import sahil from "../../assets/sahil.jpg";
 import shivam from "../../assets/shivam.jpg";
@@ -172,20 +172,20 @@ const team = {
       telegram: "https://t.me/berndoostrum",
     },
     {
+      name: "Amanjot Malhotra",
+      designation: "Business Developement & Product Management",
+      image: amanjot,
+      linkedin: "https://www.linkedin.com/in/amanjot-malhotra/",
+      twitter: "https://twitter.com/amanmalhotra911",
+      telegram: "https://t.me/amanjot_malhotra",
+    },
+    {
       name: "Jignesh Vasoya",
       designation: "Lead Developer & Solutions Architect",
       image: jignesh,
       linkedin: "https://www.linkedin.com/in/jigneshvasoya/",
       twitter: "https://twitter.com/rakhduJeeV",
       telegram: "https://t.me/jigneshvasoya",
-    },
-    {
-      name: "Sandeep Sangli",
-      designation: "Head, Business Development (India)",
-      image: sandeep,
-      linkedin: "https://www.linkedin.com/in/sandeepsangli/",
-      twitter: "https://twitter.com/sandeepsangli",
-      telegram: "https://t.me/sandeepsangli",
     },
   ],
 
@@ -199,12 +199,12 @@ const team = {
       telegram: "https://t.me/mudit_m",
     },
     {
-      name: "Akhil Bharati",
-      designation: "Senior Software Engineer",
-      image: akhil,
-      linkedin: "https://www.linkedin.com/in/akhil-bharti-17161272/ ",
-      twitter: "https://twitter.com/ItsJustAkhil",
-      telegram: "https://t.me/akhilbharti",
+      name: "Poorvi Sachar",
+      designation: "Head - Developer Adoption",
+      image: poorvi,
+      linkedin: "https://www.linkedin.com/in/poorvi-sachar-134668124",
+      twitter: "https://twitter.com/poorvisachar",
+      telegram: "https://t.me/poorvisachar",
     },
     {
       name: "Sneha Biradar",
@@ -230,19 +230,19 @@ const team = {
   internsRow: [
     {
       name: "GD Soumya",
-      designation: "Blockchain Intern",
+      designation: "Blockchain Developer",
       image: soumya,
       linkedin: "https://www.linkedin.com/in/gdsoumya/",
       twitter: "https://twitter.com/gdsoumya",
       telegram: "https://t.me/gdsoumya",
     },
     {
-      name: "Tejaaswini Narendra",
-      designation: "Blockchain Intern",
-      image: tejaaswini,
-      linkedin: "https://www.linkedin.com/in/tejaaswini-narendra-012b93153/",
-      twitter: "https://twitter.com/tejnaren07",
-      telegram: "https://t.me/tej_naren",
+      name: "Ojuswi Rastogi",
+      designation: "Blockchain Developer",
+      image: ojuswi,
+      linkedin: "https://www.linkedin.com/in/OjusWiZard/",
+      twitter: "https://twitter.com/OjuswiRastogi",
+      telegram: "https://t.me/Ojuswi",
     },
   ],
 };
