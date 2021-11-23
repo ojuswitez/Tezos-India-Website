@@ -57,7 +57,7 @@ export class Community extends Component {
           <div className="com-info">
             <div>
               <p style={{ color: "#2DCA8C" }} className="com-numbers">
-                2100+
+                6000+
               </p>
               <p className="com-info-header">Educational programe</p>
               <p className="com-info-subHeader">
@@ -67,7 +67,7 @@ export class Community extends Component {
             </div>
             <div>
               <p style={{ color: "#FFBE3D" }} className="com-numbers">
-                25000+
+                75000+
               </p>
               <p className="com-info-header">People's community</p>
               <p className="com-info-subHeader">
