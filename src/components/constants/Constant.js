@@ -12,6 +12,7 @@ import sanket from "../../assets/sanket.jpg";
 import sneha from "../../assets/sneha.jpg";
 import soumya from "../../assets/soumya.png";
 import ojuswi from "../../assets/ojuswi.jpg";
+import vaishnavi from "../../assets/vaishnavi.jpg";
 import madhav from "../../assets/madhav.jpg";
 import sahil from "../../assets/sahil.jpg";
 import shivam from "../../assets/shivam.jpg";
@@ -243,6 +244,14 @@ const team = {
       linkedin: "https://www.linkedin.com/in/OjusWiZard/",
       twitter: "https://twitter.com/OjuswiRastogi",
       telegram: "https://t.me/Ojuswi",
+    },
+    {
+      name: "Vaishnavi Sawant",
+      designation: "Social Media Manager",
+      image: vaishnavi,
+      linkedin: "https://www.linkedin.com/in/vaishnavi-sawant-/",
+      twitter: "https://twitter.com/Vaishna64767122",
+      telegram: "https://t.me/sawant_1993",
     },
   ],
 };
