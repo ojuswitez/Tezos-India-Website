@@ -32,11 +32,6 @@ function Header() {
             Hackathons
           </a>
         </li>
-        <li>
-          <a href='#fellowship' rel='noreferrer'>
-            TIF 2.0
-          </a>
-        </li>
 
         <li>
           <a
